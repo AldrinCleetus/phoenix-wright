@@ -49,3 +49,7 @@ coverage.xml
 # OS-specific
 .DS_Store
 Thumbs.db
+
+
+scraper.log
+output
